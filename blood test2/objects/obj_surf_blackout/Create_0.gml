@@ -1,0 +1,1 @@
+blue_surface = -1;
